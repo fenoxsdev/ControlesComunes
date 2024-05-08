@@ -1,0 +1,11 @@
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\bin\Release\FCServicios.dll
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\bin\Release\FCServicios.pdb
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\FCControlesComunes.csproj.AssemblyReference.cache
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ControlesComunes.Busqueda.resources
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ControlesComunes.ctlClock.resources
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ControlesComunes.RangoFechas.resources
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ControlesComunes.Resultado.resources
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\FCControlesComunes.csproj.GenerateResource.cache
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\FCControlesComunes.csproj.CoreCompileInputs.cache
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\FCServicios.dll
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\FCServicios.pdb

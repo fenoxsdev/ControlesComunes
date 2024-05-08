@@ -1,0 +1,9 @@
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\bin\Release\ctlClockLib.dll
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\bin\Release\ctlClockLib.pdb
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ctlClockLib.csproj.AssemblyReference.cache
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ctlClockLib.ctlClock.resources
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ctlClockLib.RangoFechas.resources
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ctlClockLib.csproj.GenerateResource.cache
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ctlClockLib.csproj.CoreCompileInputs.cache
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ctlClockLib.dll
+C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\ctlClockLib.pdb
