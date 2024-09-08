@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace ControlesComunes
 {
-    internal class funciones
+    public class funciones
     {
         string CaracteresValidos = "@.";
         public void soloNumeros(KeyPressEventArgs e)

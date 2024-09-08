@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace ControlesComunes
 {
-    internal class fecha
+    public class fecha
     {
         DateTime miFecha;
         public fecha(DateTime xFecha)

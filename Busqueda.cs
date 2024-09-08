@@ -25,7 +25,8 @@ namespace ControlesComunes
         public string Tabla { get; set; }
         public string Condicion { get; set; }
 
-
+        // Evento público para notificar que ha cambiado el contenido de cualquiera de los TextBox
+        public event EventHandler ItemSeleccionado;
 
         funciones cFx =new funciones();
 
@@ -106,7 +107,8 @@ namespace ControlesComunes
 
         private void txtCodigo_Leave(object sender, EventArgs e)
         {
-            txtNombre.Text=Carga(txtCodigo.Text).Descripcion.ToString();
+            if (txtCodigo.Text !="")
+                txtNombre.Text=Carga(txtCodigo.Text).Descripcion.ToString();
         }
         private Data Carga(string Palabra="")
         {
@@ -145,6 +147,11 @@ namespace ControlesComunes
             return td;
         }
 
+        private void txtCodigo_TextChanged(object sender, EventArgs e)
+        {
+            // Disparar el evento ContenidoCambiado para notificar al exterior
+            ItemSeleccionado.Invoke(this, EventArgs.Empty);
+        }
     }
 }
 
