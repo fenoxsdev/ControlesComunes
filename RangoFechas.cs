@@ -7,6 +7,9 @@ namespace ControlesComunes
     {
         private string desde;
         private string hasta;
+
+        public event EventHandler FechaCambia;
+
         public string Desde
         {
             get
@@ -41,7 +44,7 @@ namespace ControlesComunes
             {
                 dtpHasta.Value = dtpDesde.Value;
             };
-
+            FechaCambia.Invoke(this, e);
         }
 
         private void dtpHasta_ValueChanged(object sender, EventArgs e)
@@ -50,6 +53,11 @@ namespace ControlesComunes
             {
                 dtpDesde.Value = dtpHasta.Value;
             };
+            FechaCambia.Invoke(this, e);
+        }
+
+        private void RangoFechas_Load(object sender, EventArgs e)
+        {
 
         }
     }

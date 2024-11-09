@@ -9,3 +9,14 @@ C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\FCCont
 C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\FCControlesComunes.csproj.CoreCompileInputs.cache
 C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\FCServicios.dll
 C:\Users\fenox\OneDrive\Documentos\GitHub\empresa\ctlClockLib\obj\Release\FCServicios.pdb
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\bin\Release\FCServicios.dll
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\bin\Release\FCServicios.pdb
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\obj\Release\FCControlesComunes.csproj.AssemblyReference.cache
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\obj\Release\ControlesComunes.Busqueda.resources
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\obj\Release\ControlesComunes.ctlClock.resources
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\obj\Release\ControlesComunes.RangoFechas.resources
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\obj\Release\ControlesComunes.Resultado.resources
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\obj\Release\FCControlesComunes.csproj.GenerateResource.cache
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\obj\Release\FCControlesComunes.csproj.CoreCompileInputs.cache
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\obj\Release\FCServicios.dll
+C:\Users\fenox\OneDrive\Empresa\Productivo\Comunes\Controles\obj\Release\FCServicios.pdb
