@@ -60,7 +60,6 @@
             this.dtpDesde.Name = "dtpDesde";
             this.dtpDesde.Size = new System.Drawing.Size(131, 22);
             this.dtpDesde.TabIndex = 2;
-            this.dtpDesde.ValueChanged += new System.EventHandler(this.dtpDesde_ValueChanged);
             // 
             // dtpHasta
             // 
@@ -70,7 +69,6 @@
             this.dtpHasta.Name = "dtpHasta";
             this.dtpHasta.Size = new System.Drawing.Size(131, 22);
             this.dtpHasta.TabIndex = 3;
-            this.dtpHasta.ValueChanged += new System.EventHandler(this.dtpHasta_ValueChanged);
             // 
             // RangoFechas
             // 

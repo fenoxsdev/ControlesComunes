@@ -38,23 +38,7 @@ namespace ControlesComunes
         {
             InitializeComponent();
         }
-        private void dtpDesde_ValueChanged(object sender, EventArgs e)
-        {
-            if (DateTime.Compare(dtpDesde.Value, dtpHasta.Value) > 0)
-            {
-                dtpHasta.Value = dtpDesde.Value;
-            };
-            FechaCambia.Invoke(this, e);
-        }
 
-        private void dtpHasta_ValueChanged(object sender, EventArgs e)
-        {
-            if (DateTime.Compare(dtpDesde.Value, dtpHasta.Value) > 0)
-            {
-                dtpDesde.Value = dtpHasta.Value;
-            };
-            FechaCambia.Invoke(this, e);
-        }
 
         private void RangoFechas_Load(object sender, EventArgs e)
         {
